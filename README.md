@@ -1,2 +1,0 @@
-# BOFCproductions
-BOFCconfig
